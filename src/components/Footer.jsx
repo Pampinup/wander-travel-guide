@@ -41,7 +41,7 @@ function Footer() {
             </a>
             {" · "}
             <a
-              href="https://github.com/Pampinup"
+              href="https://github.com/Pampinup/wander-travel-guide"
               target="_blank"
               rel="noreferrer"
             >
